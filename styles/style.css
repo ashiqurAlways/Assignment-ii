@@ -313,9 +313,7 @@ popular-text {
 .discounts-container {
   position: relative;
   padding: 40px 100px
-  
 }
-
 
 .discounts-title {
   color: #131318;
@@ -338,7 +336,6 @@ popular-text {
   font-size: 1rem;
   font-weight: 400;
   margin-bottom: -30px;
-
 }
 
 .content-container {
@@ -353,10 +350,6 @@ popular-text {
   top: 50%;
   left: 50%;
   transform: translate(-12%, -50%);
-
-  /* margin-left: 530px; */
-
-
 }
 
 .content-container-left {
@@ -373,26 +366,23 @@ popular-text {
   transform: translate(-83%, -50%);
 }
 
-.content-container h4 {
+.Satorini {
   color: #131318;
   font-size: 1.5rem;
   font-weight: 800;
 }
 
-.content-container p {
+.Satorini-text {
   color: #5A5A5D;
   font-size: 16px;
   font-weight: 400;
 }
 
-.content-container h5 {
+.Price {
   color: #FF5400;
   font-size: 20px;
   font-weight: 800;
 }
-
-
-
 
 /* Perfect Place section styles */
 
@@ -406,7 +396,6 @@ popular-text {
   width: 610px;
   height: 424px;
 }
-
 
 .perfect-place-container img {
   width: 500px;
